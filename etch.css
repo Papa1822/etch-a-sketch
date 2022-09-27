@@ -11,3 +11,7 @@
     border: 1px solid grey;
     padding : 10px;
 }
+
+.grid-item:hover {
+background-color: black;
+}
