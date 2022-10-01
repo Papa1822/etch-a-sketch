@@ -12,7 +12,7 @@ for(let i=0; i<amount; i++){
     square.addEventListener('mouseover', () => {
         square.style.backgroundColor = 'black'
     });
-    square.style.backgroundColor = 'blue';
+    square.style.backgroundColor = 'white';
     board.appendChild(square);
 }
 }
